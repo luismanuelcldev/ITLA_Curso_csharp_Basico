@@ -1,0 +1,4 @@
+C:\Users\luism\OneDrive\Escritorio\Practicas C# .NET ITLA\Ejemplos (Codificacion) Resumen Array\Carta\obj\Debug\net8.0\Carta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luism\OneDrive\Escritorio\Practicas C# .NET ITLA\Ejemplos (Codificacion) Resumen Array\Carta\obj\Debug\net8.0\Carta.AssemblyInfoInputs.cache
+C:\Users\luism\OneDrive\Escritorio\Practicas C# .NET ITLA\Ejemplos (Codificacion) Resumen Array\Carta\obj\Debug\net8.0\Carta.AssemblyInfo.cs
+C:\Users\luism\OneDrive\Escritorio\Practicas C# .NET ITLA\Ejemplos (Codificacion) Resumen Array\Carta\obj\Debug\net8.0\Carta.csproj.CoreCompileInputs.cache

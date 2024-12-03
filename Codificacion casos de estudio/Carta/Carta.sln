@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carta", "Carta.csproj", "{BD889C0E-8BC9-4D5B-9517-5109972CBAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD889C0E-8BC9-4D5B-9517-5109972CBAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD889C0E-8BC9-4D5B-9517-5109972CBAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD889C0E-8BC9-4D5B-9517-5109972CBAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD889C0E-8BC9-4D5B-9517-5109972CBAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {999CBD67-2566-489D-A55E-E46CF14AD152}
+	EndGlobalSection
+EndGlobal
